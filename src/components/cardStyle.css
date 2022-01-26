@@ -1,0 +1,52 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" );
+
+body{
+    background-color:beige;
+    color: rgb(20, 18, 18);
+    font-family:'Space Mono', monospace;
+    color: white;
+}
+
+.Card{
+    background-color: rgb(19, 82, 165);
+    border:2px double white;
+    border-radius: 15px;
+    width: 600px;
+    height: 400px;
+    display:grid;
+    margin-left: 38rem;
+    margin-top:15rem;
+    box-shadow:1px 1px 20px 5px grey;
+}
+
+.BankName{
+    text-align: right;
+    margin-right: 2rem;
+    font-size: 2.5rem;
+}
+
+
+.CreditNumber{
+    margin-left:6rem;
+}
+.Number{
+    font-size:2.2rem;
+    font-weight: normal;
+}
+
+.ValidAndDate{
+    margin-left:4rem;
+    align-items: center;
+    text-align: center;
+    margin-right: 4rem;
+    font-size:1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Name{
+   margin-left:5rem;
+   font-size:2rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
